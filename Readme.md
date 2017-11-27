@@ -1,6 +1,8 @@
 # Git Course
-kdkajsdkajsdkajdskj
+
 Este é um repositório teste para ensinar como o git funciona.
+
+E agora eu to tentando subir este texto aqui
 
 Saiba mais em [willianjusten.com.br](http://willianjusten.com.br)
 
